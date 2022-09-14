@@ -31,6 +31,10 @@
 
 
 ## Experiences
+
+**2022.07 - ing**　　　　 |　 GDG Campus Korea Organizer
+<br>
+
 **2022.03 - 2022.08**　|　 대학생 연합 기업형 IT 동아리 YAPP 20th 회장 <br>
 - YAPP 홈페이지 개편 기획  <br>
 - YAPP 출석체크 앱 기획 및 개발 <br>
